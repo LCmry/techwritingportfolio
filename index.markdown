@@ -4,3 +4,10 @@
 
 layout: page
 ---
+
+# Lauren C
+### An enduring interest in knowledge accessibility.
+
+|**About**|**Portfolio**|**Resume**|
+| :---: | :---: | :---: |
+| A bit about me | Some samples of my technical writing work | More about my work |
