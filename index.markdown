@@ -9,8 +9,8 @@ permalink: /
 
 ### An enduring interest in knowledge accessibility.
 
-## [About](/about)
+## [About](/techwritingportfolio/about)
 A bit about me.
 
-## [Portfolio](/portfolio)
+## [Portfolio](/techwritingportfolio/portfolio)
 Some samples of my technical writing work.
