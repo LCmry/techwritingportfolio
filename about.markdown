@@ -16,7 +16,7 @@ I have degrees in computer science and anthropology and am always looking into w
 In my off time I am a powerlifter, crafter, and reader.
 
 You can find my portfolio on this site:
-[Portfolio]({{ site.baseurl }}{ % link portfolio.md %})
+[Portfolio]({{ site.baseurl }}{% link portfolio.md %})
 
 Get in contact with me on LinkedIn:
 [LinkedIn]({{ site.linkedin_url }})
