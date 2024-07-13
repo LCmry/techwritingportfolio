@@ -9,8 +9,8 @@ permalink: /
 
 ### An enduring interest in knowledge accessibility.
 
-## [About]({% link about.markdown %})
+## [About]({{ site.baseurl }}{% link about.markdown %})
 A bit about me.
 
-## [Portfolio]({% link portfolio.md %})
+## [Portfolio]({{ site.baseurl }}{% link portfolio.md %})
 Some samples of my technical writing work.
