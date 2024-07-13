@@ -1,1 +1,1 @@
-# techwritingportfolio.github.io
+# lcmry.github.io/techwritingportfolio
