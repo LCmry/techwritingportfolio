@@ -14,7 +14,7 @@ I have been a software developer and engineering manager and technical writing h
 
 I bring experience with building teams, collaborating across boundaries, creating and improving organizational processes, writing software, managing projects, and, of course, technical writing.
 
-In my off time I like reading and doing hand embroidery. I also am a powerlifter and currently hold two Oregon state records in the squat and bench press.
+In my off time I like reading and doing hand embroidery. I am also a powerlifter and currently hold two Oregon state records in the squat and bench press.
 
 You can find my portfolio on this site:
 [Portfolio]({{ site.baseurl }}{% link portfolio.md %})
